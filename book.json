@@ -1,3 +1,9 @@
 {
-	"plugins": ["toggle-chapters"]  
+    "title" : "idaas文档测试",
+    "author" : "myname",
+    "description" : "idaas文档测试",
+    "language" : "zh-hans",
+    "plugins": [
+        "expandable-chapters-small"
+    ]
 }
